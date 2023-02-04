@@ -1,0 +1,23 @@
+{
+  "name": "day",
+  "version": "0.0.1",
+  "description": "`Day` is a subclass of `Date`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wachaon/day.git"
+  },
+  "keywords": [
+    "wes",
+    "date"
+  ],
+  "author": "wachaon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wachaon/day/issues"
+  },
+  "homepage": "https://github.com/wachaon/day#readme"
+}
