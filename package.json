@@ -1,6 +1,6 @@
 {
   "name": "day",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "`Day` is a subclass of `Date`",
   "main": "index.js",
   "scripts": {
